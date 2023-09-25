@@ -1,0 +1,2 @@
+# Excercice
+code for javascript
